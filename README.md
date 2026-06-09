@@ -8,4 +8,4 @@ Projeto desenvolvido para análise de dados de diversidade.
 
    ## 📊 Preview do Dashboard
 
-![Dashboard](img analise de dados.jpeg)
+![Dashboard](img-analise-de-dados.jpeg)
